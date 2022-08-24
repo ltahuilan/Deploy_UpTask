@@ -1,0 +1,10 @@
+#directorios a ignorar
+node_modules/
+src/
+vendor/
+
+#ficheros a ignorar
+gulpfile.js
+package.json
+package-lock.json
+.env
